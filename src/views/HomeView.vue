@@ -1,7 +1,6 @@
 <template>
-  <div class="container">
-    <img class="img1" src="../assets/img1.png" alt="" />
-    <table class="container">
+  <div class="container" >
+    <table class="container1">
       <tr class="wraper">
         <th class="column-table">Name</th>
         <th class="column-table">Gander</th>
